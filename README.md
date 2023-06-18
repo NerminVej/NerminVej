@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Backend and Data Science enthusiast from Germany.</h3>
+<h3 align="center">A passionate Full Stack and Data Science enthusiast from Germany.</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
