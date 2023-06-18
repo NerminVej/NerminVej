@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **nermin.vejzovic@yahoo.de**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
