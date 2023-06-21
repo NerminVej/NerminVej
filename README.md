@@ -4,8 +4,6 @@
 
 - 💬 Ask me about **AI, Machine Learning, Java, Spring, React**
 
-- 📫 How to reach me **nermin.vejzovic@yahoo.de**
-
 
 <p align="left">
 </p>
