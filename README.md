@@ -1,8 +1,8 @@
 <h3 align="center">A passionate Full Stack and Data Science enthusiast from Germany.</h3>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning**
+- 🌱 I’m currently learning **Next.js, Tailwind CSS, React, Java Spring**
 
-- 💬 Ask me about **AI, Machine Learning, Java, Spring, React**
+- 💬 Ask me about **AI, Java, Spring, React**
 
 
 <p align="left">
