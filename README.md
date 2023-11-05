@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Full Stack and Data Science enthusiast from Germany.</h3>
+<h3 align="center">A passionate Full Stack and Java enthusiast from Germany.</h3>
 
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, React, Java Spring**
 
