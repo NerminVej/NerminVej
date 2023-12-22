@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Java Spring, React, TDD and Docker**
 
-- 💬 Ask me about **AI, Java, Spring, React**
+- 💬 Ask me about **AI, Java, React**
 
 
 <p align="left">
