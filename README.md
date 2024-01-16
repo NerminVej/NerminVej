@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Java and React enthusiast from Germany.</h3>
 
-- 🌱 I’m currently learning **Java Spring, React, TDD**
+- 🌱 I’m currently learning **Java Spring, React**
 
 - 💬 Ask me about **AI, Java, React**
 
