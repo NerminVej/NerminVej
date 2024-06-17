@@ -1,6 +1,6 @@
-<h3 align="center">A passionate Java and React enthusiast from Germany.</h3>
+<h3 align="center">A passionate React and Vue enthusiast from Germany.</h3>
 
-- 🌱 I’m currently learning **Java Spring, React, Prompt Engineering**
+- 🌱 I’m currently learning **Vue, Nuxt, React, Prompt Engineering**
 
 - 💬 Ask me about **AI, Java, React**
 
