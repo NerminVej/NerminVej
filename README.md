@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Vue, Nuxt, React, Prompt Engineering**
 
-- 💬 Ask me about **AI, Java, React**
+- 💬 Ask me about **AI, React**
 
 
 <p align="left">
