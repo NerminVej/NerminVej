@@ -1,6 +1,6 @@
 <h3 align="center">A passionate React and Vue enthusiast from Germany.</h3>
 
-- 🌱 I’m currently learning **Vue, Laravel, React, Prompt Engineering**
+- 🌱 I’m currently learning **React, Prompt Engineering**
 
 - 💬 Ask me about **AI, React**
 
