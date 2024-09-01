@@ -1,4 +1,4 @@
-<h3 align="center">A passionate React and Vue enthusiast from Germany.</h3>
+<h3 align="center">Kaizen</h3>
 
 - 🌱 I’m currently learning **React, Prompt Engineering**
 
